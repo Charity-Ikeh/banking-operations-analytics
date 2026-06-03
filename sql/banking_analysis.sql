@@ -1,4 +1,4 @@
-sql-- Banking Operations Analysis
+-- Banking Operations Analysis
 -- Dataset: NIBSS Nigerian Banking Transactions
 -- Analyst: Charity Ikeh
 
